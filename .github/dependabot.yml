@@ -28,7 +28,6 @@ updates:
       github:
         patterns:
           - '@actions/*'
-          - '@octokit/*'
       eslint:
         patterns:
           - 'eslint*'
